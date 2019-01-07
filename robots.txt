@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /css/
+
+User-agent: Yandex
+Disallow: /css/
+Host: https://wfseo.tk/
