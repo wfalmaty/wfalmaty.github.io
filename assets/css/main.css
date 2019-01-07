@@ -12,7 +12,7 @@
 }
 /*--------chalk---------*/
 .bgseo_00{background: url(../../images/bgSEO_00.jpg) 0/cover fixed;}
-.bgseo_01{background: url(../../images/bgSEO_01.jpg) 0/cover fixed;}
+.bgseo_01{background: url(../../images/bgSEO_01.webp) 0/cover fixed;}
 .bgseo_02{background: url(../../images/bgSEO_02.jpg) 0/cover fixed;}
 .bgseo_03{background: url(../../images/bgSEO_03.jpg) 0/cover fixed;}
 
@@ -60,7 +60,7 @@
     margin: 0em -2em -2em -2em;
 }
 /*what all*/
-#what_all{background: url(../../images/bg_com03.jpg) 0/cover fixed;
+#what_all{background: url(../../images/bg_com03.webp) 0/cover fixed;
     padding-left: 2em;
     padding-right: 2em;
     padding-top: 2em;
