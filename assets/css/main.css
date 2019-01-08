@@ -2,7 +2,7 @@
 @import url("font-awesome.min.css");
 @font-face {
   font-family: 'chalk';
-  font-display: auto;
+  font-display: block;
   src: url('https://tylermoeller.github.io/fccfe/tic-tac-toe/fonts/eraserdust-webfont.eot'),
        url('https://tylermoeller.github.io/fccfe/tic-tac-toe/fonts/eraserdust-webfont.eot?#iefix') format('embedded-opentype'),
        url('https://tylermoeller.github.io/fccfe/tic-tac-toe/fonts/eraserdust-webfont.woff2') format('woff2'),
