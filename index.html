@@ -382,20 +382,50 @@ tl2.staggerTo(el2,3,{left:'100%',xPercent:"0%",ease:SlowMo.ease.config(0.7,0.7)}
 <script>
 var timeline = new TimelineMax({ repeat: 0 });
 
-
+var scrollMagicController = new ScrollMagic.Controller({});
 var tween1 = TweenMax.from( $( '#seo_inside' ), 1, { 
     autoAlpha: 0,
+	y: '-20%',
     scale: 0.2,
-    ease:Elastic.easeInOut
-}, 0.3 );
+    ease:Power1.easeNone
+}, 0.5 );
 var scene1 = new ScrollMagic.Scene({
     triggerElement: '#seo_inside' 
 })
-//.addIndicators()
 .addTo( scrollMagicController )
 .setTween( tween1 )
-.setClassToggle( "#seo_inside");
-</script>
+.setClassToggle( "#seo_inside");	
+
+var scrollMagicController = new ScrollMagic.Controller({});
+var tween2 = TweenMax.from( $( '#seo_event' ), 1, { 
+    autoAlpha: 0,
+	y: '-20%',
+    scale: 0.2,
+    ease:Power1.easeNone
+}, 0.5 );
+
+var scene2 = new ScrollMagic.Scene({
+    triggerElement: '#seo_event' 
+})
+.addTo( scrollMagicController )
+.setTween( tween2 )
+.setClassToggle( "#seo_event");	
+
+var scrollMagicController = new ScrollMagic.Controller({});
+var tween3 = TweenMax.from( $( '#outside_header' ), 1, { 
+    autoAlpha: 0,
+	y: '-20%',
+    scale: 0.2,
+    ease:Power1.easeNone
+}, 0.5 );
+
+var scene3 = new ScrollMagic.Scene({
+    triggerElement: '#outside_header' 
+})
+.addTo( scrollMagicController )
+.setTween( tween3 )
+.setClassToggle( "#outside_header");	
+	</script>
 	
 </body>
 </html>
