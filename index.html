@@ -425,7 +425,22 @@ var scene3 = new ScrollMagic.Scene({
 .addTo( scrollMagicController )
 .setTween( tween3 )
 .setClassToggle( "#outside_header");	
-	</script>
+
+var scrollMagicController = new ScrollMagic.Controller({});
+var tween5 = TweenMax.from( $( '#resume' ), 1, { 
+    autoAlpha: 0,
+	y: '40%',
+    //scale: 0.2,
+    ease:Power1.easeNone
+}, 0.5 );
+
+var scene5 = new ScrollMagic.Scene({
+    triggerElement: '#resume' 
+})
+.addTo( scrollMagicController )
+.setTween( tween5 )
+.setClassToggle( "#resume");
+</script>
 	
 </body>
 </html>
