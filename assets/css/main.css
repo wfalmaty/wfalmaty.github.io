@@ -12,43 +12,30 @@
   font-weight: bold;
 }
 /*--------chalk---------*/
-.bgseo_00{background: url(../../images/bgSEO_00.jpg) 0/cover fixed;}
+.bgseo_00{background: url(../../images/bgSEO_00_1680.jpg) 0/cover fixed;}
 .bgseo_01{background: url(../../images/bgSEO_01.webp) 0/cover fixed;}
 .bgseo_02{background: url(../../images/bgSEO_02.jpg) 0/cover fixed;}
 .bgseo_03{background: url(../../images/bgSEO_03.jpg) 0/cover fixed;}
 .bg_start{background: url(../../images/bg_start02.webp) 0/cover fixed;}
 /*----------------MOBILE--------------------*/
-/* @media screen and (max-width: 1680px) {
-.container {width: 120px;
-    height: 120px;}
+ @media screen and (max-width: 1680px) {
+.bgseo_00{background: url(../../images/bgSEO_00_1680.jpg) 0/cover fixed;}
 }
 
 @media screen and (max-width: 1280px) {
-#logo_top {width: 120px;
-    height: 120px;}
-} */
+.bgseo_00{background: url(../../images/bgSEO_00_1280.jpg) 0/cover fixed;}
+} 
 
-	@media screen and (max-width: 960px) {
-#logo_top {width: 90px;
-    height: 90px;background: url(../../images/LOGO_960.png);}
-#line-3 {
-    font-size: 2.3em;
-	}
+@media screen and (max-width: 960px) {
+.bgseo_00{background: url(../../images/bgSEO_00_960.jpg) 0/cover fixed;}
+
 	}
 @media screen and (max-width: 840px) {
-#logo_top {width: 70px;
-    height: 70px;background: url(../../images/LOGO_840.png);}
-	#line-3 {
-    font-size: 2.2em;
-	}
+.bgseo_00{background: url(../../images/bgSEO_00_840.jpg) 0/cover fixed;}
 }
 
 @media screen and (max-width: 736px) {
-#logo_top {width: 60px;
-    height: 60px;background: url(../../images/LOGO_736.png);}
-	#line-3 {
-    font-size: 2.1em;
-	}
+.bgseo_00{background: url(../../images/bgSEO_00_736.jpg) 0/cover fixed;}
 }
 /*--------------------------------------------*/
 /*bg h2*/
