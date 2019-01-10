@@ -12,41 +12,41 @@
   font-weight: bold;
 }
 /*--------chalk---------*/
-.bgseo_00{background: url(../../images/bgSEO_00_1680.jpg) 0/cover fixed;}
-.bgseo_01{background: url(../../images/bgSEO_01.webp) 0/cover fixed;}
-.bgseo_02{background: url(../../images/bgSEO_02_1680.jpg) 0/cover fixed;}
-.bgseo_03{background: url(../../images/bgSEO_03.jpg) 0/cover fixed;}
-.bg_start{background: url(../../images/bg_start02_1680.jpg) 0/cover fixed;}
+.bgseo_00{background: url(../../images/bgSEO_00_1680.jpg) 50% 50% /cover fixed;}
+.bgseo_01{background: url(../../images/bgSEO_01.webp) 50% 50% /cover fixed;}
+.bgseo_02{background: url(../../images/bgSEO_02_1680.jpg) 50% 50% /cover fixed;}
+.bgseo_03{background: url(../../images/bgSEO_03.jpg) 50% 50% /cover fixed;}
+.bg_start{background: url(../../images/bg_start02_1680.jpg) 50% 50% /cover fixed;}
 /*----------------MOBILE--------------------*/
  @media screen and (max-width: 1680px) {
-.bgseo_00{background: url(../../images/bgSEO_00_1680.jpg) 0/cover fixed;}
-.bg_start{background: url(../../images/bg_start02_1680.jpg) 0/cover fixed;}	
-.bgseo_02{background: url(../../images/bgSEO_02_1680.jpg) 0/cover fixed;} 
+.bgseo_00{background: url(../../images/bgSEO_00_1680.jpg) 50% 50% /cover fixed;}
+.bg_start{background: url(../../images/bg_start02_1680.jpg) 50% 50% /cover fixed;}	
+.bgseo_02{background: url(../../images/bgSEO_02_1680.jpg) 50% 50% /cover fixed;} 
 }
 
 @media screen and (max-width: 1280px) {
-.bgseo_00{background: url(../../images/bgSEO_00_1280.jpg) 0/cover fixed;}
-.bg_start{background: url(../../images/bg_start02_1280.jpg) 0/cover fixed;}
-.bgseo_02{background: url(../../images/bgSEO_02_1280.jpg) 0/cover fixed;}	
+.bgseo_00{background: url(../../images/bgSEO_00_1280.jpg) 50% 50% /cover fixed;}
+.bg_start{background: url(../../images/bg_start02_1280.jpg) 50% 50% /cover fixed;}
+.bgseo_02{background: url(../../images/bgSEO_02_1280.jpg) 50% 50% /cover fixed;}	
 } 
 
 @media screen and (max-width: 960px) {
-.bgseo_00{background: url(../../images/bgSEO_00_960.jpg) 0/cover fixed;}
-.bg_start{background: url(../../images/bg_start02_960.jpg) 0/cover fixed;}
-.bgseo_02{background: url(../../images/bgSEO_02_960.jpg) 0/cover fixed;}
+.bgseo_00{background: url(../../images/bgSEO_00_960.jpg) 50% 50% /cover fixed;}
+.bg_start{background: url(../../images/bg_start02_960.jpg) 50% 50% /cover fixed;}
+.bgseo_02{background: url(../../images/bgSEO_02_960.jpg) 50% 50% /cover fixed;}
 
 	}
 @media screen and (max-width: 840px) {
-.bgseo_00{background: url(../../images/bgSEO_00_840.jpg) 0/cover fixed;}
-.bg_start{background: url(../../images/bg_start02_840.jpg) 0/cover fixed;}
-.bgseo_02{background: url(../../images/bgSEO_02_840.jpg) 0/cover fixed;}	
+.bgseo_00{background: url(../../images/bgSEO_00_840.jpg) 50% 50% /cover fixed;}
+.bg_start{background: url(../../images/bg_start02_840.jpg) 50% 50% /cover fixed;}
+.bgseo_02{background: url(../../images/bgSEO_02_840.jpg) 50% 50% /cover fixed;}	
 	
 }
 
 @media screen and (max-width: 736px) {
-.bgseo_00{background: url(../../images/bgSEO_00_736.jpg) 0/cover fixed;}
-.bg_start{background: url(../../images/bg_start02_736.jpg) 0/cover fixed;}
-.bgseo_02{background: url(../../images/bgSEO_02_736.jpg) 0/cover fixed;}	
+.bgseo_00{background: url(../../images/bgSEO_00_736.jpg) 50% 50% /cover fixed;}
+.bg_start{background: url(../../images/bg_start02_736.jpg) 50% 50% /cover fixed;}
+.bgseo_02{background: url(../../images/bgSEO_02_736.jpg) 50% 50% /cover fixed;}	
 }
 /*--------------------------------------------*/
 /*bg h2*/
