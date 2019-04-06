@@ -30,6 +30,19 @@
 .orange{color: #F2C308;}
 .h2white {color: white;
     font-weight: 900;}
+#header.all {
+    position: relative;
+    background-image: url(../../images/header_site_all.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #fff;
+    text-align: center;
+    padding: 7.5em 0 2em;
+    cursor: default;
+   
+    overflow: hidden;
+}
 #header1 {
     position: relative;
     background-image: url(../../images/header02.jpg);
