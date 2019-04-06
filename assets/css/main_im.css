@@ -40,7 +40,7 @@
     text-align: center;
     padding: 7.5em 0 2em;
     cursor: default;
-   
+       height: 100%;
     overflow: hidden;
 }
 #header1 {
