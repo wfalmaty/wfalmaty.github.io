@@ -3570,8 +3570,9 @@ input, select, textarea {
 		position: relative;
     overflow: hidden;
     padding: 2em 0 2em 0;
-    background: #F3BE22;
-    color: #000;
+    /*background: #F3BE22; color: #000;*/
+		    background: #000000;
+    color: #f2c308;
 	}
 
 		#footer .icon.circled {
