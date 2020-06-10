@@ -3408,8 +3408,8 @@ h1{font-family: 'Oswald', sans-serif;}
 
 	#header {
 		position: relative;
-		/* background-image: url("../../images/header.jpg"); */
-		background-image: /*url(http://www.digiayam.com/wp-content/uploads/2018/06/digital-marketing-agency.jpg);*/
+		background-image: url(../../images/bg_news.jpg); 
+		/*background-image: /*url(http://www.digiayam.com/wp-content/uploads/2018/06/digital-marketing-agency.jpg);*/
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
