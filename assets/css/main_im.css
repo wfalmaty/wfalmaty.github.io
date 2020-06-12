@@ -3312,7 +3312,7 @@ h1{font-family: 'Oswald', sans-serif;}
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #de9008;
 		}
 
 		input[type="button"].alt,
@@ -3328,7 +3328,7 @@ h1{font-family: 'Oswald', sans-serif;}
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #3B353C;
+				background: #de9008;
 			}
 
 /* Post */
