@@ -19,16 +19,7 @@
 .bg_start{background: url(../../images/bg_start02_1680.jpg) 50% 50% /cover fixed;}
 
 /*title*/
-#navh1 {
-    position: absolute;
-    top: 70px;
-    left: 0;
-    width: 100%;
-    text-align: center;
-    padding: 1.5em 0 1.5em 0;
-    z-index: 1;
-    overflow: hidden;
-}
+
 
 #line02 {
     /* background: white; */
@@ -155,7 +146,7 @@ body{
 /*logo*/
 #navh1 {
     position: absolute;
-    top: 0;
+    top: 70px;
     left: 0;
     width: 100%;
     text-align: center;
