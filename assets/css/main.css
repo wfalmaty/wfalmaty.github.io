@@ -49,6 +49,30 @@
 .bgseo_02{background: url(../../images/bgSEO_02_736.jpg) 50% 50% /cover fixed;}	
 }
 /*--------------------------------------------*/
+/*title*/
+#navh1 {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 1.5em 0 1.5em 0;
+    z-index: 1;
+    overflow: hidden;
+}
+#navh1 h1 {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+#line02 {
+    /* background: white; */
+    color: #F2C308;
+    /* border: 2px solid #fdfdfe; */
+    padding: 0px 7px 0 7px;
+    display: block;
+    margin-top: 25px;
+    line-height: 1em !important;
+}
 /*bg h2*/
 .header_h2 {
     /*background: url(../../images/bgh2_01.jpg) 0/cover fixed;*/
