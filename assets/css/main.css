@@ -4238,3 +4238,15 @@ input, select, textarea {
 					}
 
 	}
+@media screen and (max-width: 736px) {
+#logo_top {width: 60px; height: 60px;background: url(../../images/LOGO_736.png);}
+#line01 {font-size: 0.7em;}
+.el2 {top: 65%;}
+.el {top: 55%;}
+#line-3 {font-size: 1.8em;}
+#line-13 {font-size: 1.8em;}
+#what_all {margin: -2em -2em -2em -2em;}
+#seolist { transform: scale(0.55);-webkit-transform: scale(0.55); -moz-transform: scale(0.55); position: relative; left: -114px;}
+#resume h3 { font-size: 1.0em; text-align: left;}
+p {text-align: left;}
+}
