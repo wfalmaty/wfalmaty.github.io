@@ -50,7 +50,7 @@
 }
 /*--------------------------------------------*/
 /*title*/
-#navh1 {
+/*#navh1 {
     position: absolute;
     top: 70px;
     left: 0;
@@ -59,7 +59,7 @@
     padding: 1.5em 0 1.5em 0;
     z-index: 1;
     overflow: hidden;
-}
+}*/
 #navh1 h1 {
     color: white;
     font-family: 'Oswald', sans-serif;
