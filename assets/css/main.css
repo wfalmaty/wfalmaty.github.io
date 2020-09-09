@@ -74,6 +74,7 @@
     line-height: 1em !important;
 }
 #header h1 { color: #fff; font-size: 3em; line-height: 1em; }
+body.homepage #header h1 { font-size: 4em; }
 /*bg h2*/
 .header_h2 {
     /*background: url(../../images/bgh2_01.jpg) 0/cover fixed;*/
